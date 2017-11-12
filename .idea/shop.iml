@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phalapi/kernal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phalapi/notorm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phalapi/task" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/kernal" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/notorm" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/task" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/kernal" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/notorm" />
+          <root url="file://$MODULE_DIR$/vendor/phalapi/task" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
